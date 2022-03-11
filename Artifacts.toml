@@ -1,0 +1,143 @@
+[[CBFlib_small]]
+arch = "aarch64"
+git-tree-sha1 = "d97eb71d08d1b56de57be103bf8a35a46180a6a4"
+os = "macos"
+
+    [[CBFlib_small.download]]
+    sha256 = "768481ccdd0940bf9f5069bebe570cbbaaa42f126410b33a5a7e70e44c78e9c4"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.aarch64-apple-darwin.tar.gz"
+[[CBFlib_small]]
+arch = "aarch64"
+git-tree-sha1 = "8b3f2e09657e4edb08bc5dc725a47b70b5c8024d"
+libc = "glibc"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "fbb29e1ee6bb4f31e1c6e695e56aeaf0964c0ec9dcf5270d72617c364909dddc"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.aarch64-linux-gnu.tar.gz"
+[[CBFlib_small]]
+arch = "aarch64"
+git-tree-sha1 = "43d7ce1a7b60714f726c5eb7e7e0337991f7d314"
+libc = "musl"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "0a65b422b600a2832bdb334254e307340769f3a425dd369d2230347fffe30617"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.aarch64-linux-musl.tar.gz"
+[[CBFlib_small]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "43e625faa9e76f05c2885097b9677b3d14b1c31f"
+libc = "glibc"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "f26c400a4bbcefcd2fd92780fbf0c375d5134cc0dd1e7d0f66f7d89934a3ef30"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.armv6l-linux-gnueabihf.tar.gz"
+[[CBFlib_small]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8ea341a2f1432f8f043f87c835190dad36556423"
+libc = "musl"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "4cab5adbc2c28bd62425835b5d353d0006e3462534ff4f067ea25153ade330a3"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.armv6l-linux-musleabihf.tar.gz"
+[[CBFlib_small]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1490343319ed40227e31fe2669e3d00de00124a5"
+libc = "glibc"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "1418200e1ecb1a75138443f68fb1af6f5772ff1aa855cdb6a5560114b0cd84d4"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.armv7l-linux-gnueabihf.tar.gz"
+[[CBFlib_small]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8c7d87c53870b936bad4ff353e8011a9baa16de"
+libc = "musl"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "991f836c4a754161bec092ed17c55aaa69c66a4459513f775ba58e6271827078"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.armv7l-linux-musleabihf.tar.gz"
+[[CBFlib_small]]
+arch = "i686"
+git-tree-sha1 = "ee56759d9386732bdf725adfe34dac84c365275e"
+libc = "glibc"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "4cde212bbde5dde99a270515582ff70bf6b6bdcb3ab907f2c5da4def01bfb1b6"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.i686-linux-gnu.tar.gz"
+[[CBFlib_small]]
+arch = "i686"
+git-tree-sha1 = "64bed0b3dea68b9e19495bbf91808e2b159bf180"
+libc = "musl"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "816b6a237c3f0d68c9df402af699cc154ad0d7670eeb3f2af5745751cb5633b6"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.i686-linux-musl.tar.gz"
+[[CBFlib_small]]
+arch = "i686"
+git-tree-sha1 = "94cbd58eae4be81d61c9ade26f175a4d779ec1b7"
+os = "windows"
+
+    [[CBFlib_small.download]]
+    sha256 = "28600669172a1f59959840e09cc2a708ddcbe238dd86405ef0ea983f90ceb899"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.i686-w64-mingw32.tar.gz"
+[[CBFlib_small]]
+arch = "powerpc64le"
+git-tree-sha1 = "9ba6a88aeeba121a54e2556a20041bd6a703370e"
+libc = "glibc"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "8674a179b39a2e8143051c303b3c867e339e22ec64d977fe9daed8f49a4f6a1f"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.powerpc64le-linux-gnu.tar.gz"
+[[CBFlib_small]]
+arch = "x86_64"
+git-tree-sha1 = "3c9db5d2a35ba77477e13386903bc70a662a1448"
+os = "macos"
+
+    [[CBFlib_small.download]]
+    sha256 = "9823b05e498140e12b91fee1322e5d6fd77d734072275ccd9fb5bb6922c4aeb3"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.x86_64-apple-darwin.tar.gz"
+[[CBFlib_small]]
+arch = "x86_64"
+git-tree-sha1 = "fb938aa3f2ff56e337551f123aab0dfc31e1c1ca"
+libc = "glibc"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "9b151777543e66cae90b08a861f3d3af8401bd1f03511ac4d092c5d66e0b2668"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.x86_64-linux-gnu.tar.gz"
+[[CBFlib_small]]
+arch = "x86_64"
+git-tree-sha1 = "48904299e527ae1162e3283f7c3b2f8a74f395eb"
+libc = "musl"
+os = "linux"
+
+    [[CBFlib_small.download]]
+    sha256 = "b9b90f4ddce49f2f08e2e0b26d2d55c8beb004657e6396270daa91089d1a58b4"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.x86_64-linux-musl.tar.gz"
+[[CBFlib_small]]
+arch = "x86_64"
+git-tree-sha1 = "5d096310ef9044b2002af0bd5e94b4d0c8aaed5e"
+os = "freebsd"
+
+    [[CBFlib_small.download]]
+    sha256 = "8c8e190f54cb664ce4cd18219c385cbf0347dd8cd9eb196e2d1e31dacd9da3f4"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.x86_64-unknown-freebsd.tar.gz"
+[[CBFlib_small]]
+arch = "x86_64"
+git-tree-sha1 = "61f6ac129b2d98d730b5b777dbe03a3beb7ad758"
+os = "windows"
+
+    [[CBFlib_small.download]]
+    sha256 = "421f7c1d5e32a9240a846b9053eb8161c7e6164f72a5056888616bc29f79bd90"
+    url = "https://github.com/JuliaBinaryWrappers/CBFlib_small_jll.jl/releases/download/CBFlib_small-v0.9.6+0/CBFlib_small.v0.9.6.x86_64-w64-mingw32.tar.gz"
